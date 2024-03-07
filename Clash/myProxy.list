@@ -4,3 +4,4 @@
 # ACL4SSR标志 如没有，代表不是用ACL4SSR规则
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,byr.pt
+DOMAIN-SUFFIX,anthropic.com
